@@ -1,13 +1,13 @@
 #include "main.h"
 
-/* Code Credit:  & Paul Sabonde */
+/* Code Credit: Igwe Roseline & Paul Sabonde */
 /**
  * _printf - prints anything
  * @format: the format string
  *
  * Return: number of bytes printed
  */
-/* Code Credit:  & Paul Sabonde  */
+/* Code Credit: Igwe Roseline & Paul Sabonde  */
 int _printf(const char *format, ...)
 {
 	int add = 0;
@@ -49,4 +49,4 @@ int _printf(const char *format, ...)
 	va_end(aa);
 	return (add);
 }
-/* Code Credit: & Paul Sabonde  */
+/* Code Credit: Igwe Roseline & Paul Sabonde  */
