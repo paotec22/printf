@@ -1,4 +1,4 @@
-.TH _PRINTF 3 "JULY 11 2022"
+.TH _PRINTF 3 "JANUARY 24 2023"
 			  "0.1"
 			  "ALX  - _printf"
 
@@ -289,4 +289,4 @@ Code such as \fB_printf(\fIfoo\fB);
 	.
 
 	.SH AUTHOR
-	THANKGOD UGOBO | PAUL SABONDE
+	IGWE ROSELINE | PAUL SABONDE
