@@ -1,6 +1,6 @@
 # 0x11. C - printf
 
-- Writing our own `printf` function, this is a project done under [ALX Low Level Programming](https://github.com/paotec22/printf.git). A collaboration project by **** and **Paul Sabonde**.**Igwe Roseline**
+- Writing our own `printf` function, this is a project done under [ALX Low Level Programming](https://github.com/paotec22/printf.git). A collaboration project by **Igwe Roseline** and **Paul Sabonde**.
 
 ## Resource
 
